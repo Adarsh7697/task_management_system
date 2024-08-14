@@ -2,6 +2,8 @@
 
 > Remember, that this fire also has a data limit which is not meant to limit but it is already inbuilt from Google limiting or limiting the quota of Google spreadsheetapp. [Read for Quota Limitation](https://developers.google.com/apps-script/guides/services/quotas?hl=id)
 
+
+
 ## How does this work?
 
 We know that Google Sheets can add Apps Script directly, where you can create applications that are connected to Google Sheets, from there this system is used which makes like a request to read and write like a database in general in the form of a table.

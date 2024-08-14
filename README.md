@@ -2,6 +2,17 @@
 
 > Remember, that this fire also has a data limit which is not meant to limit but it is already inbuilt from Google limiting or limiting the quota of Google spreadsheetapp. [Read for Quota Limitation](https://developers.google.com/apps-script/guides/services/quotas?hl=id)
 
+# Task Management API
+
+This project is a RESTful API for a task management system built using Flask and PostgreSQL. The API allows users to register, authenticate, create, update, delete, and manage tasks. The project is containerized using Docker and uses SQLAlchemy for database interactions.
+
+## Features
+
+- **User Registration and Authentication**: Secure user registration and login with JWT-based authentication.
+- **Task Management**: CRUD operations for tasks, including task assignment to users.
+- **Filtering and Searching**: Filter tasks by status, priority, and due date. Search tasks by title or description.
+- **Dockerized**: Easily deployable using Docker and Docker Compose.
+- **Relational Database**: PostgreSQL as the database with SQLAlchemy ORM.
 
 
 ## How does this work?
